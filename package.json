@@ -1,5 +1,5 @@
 {
-  "name": "@hublot-io/vue-keycloak-js-19",
+  "name": vue-keycloak-js-19",
   "version": "2.1.7",
   "author": "Nils Lien",
   "description": "A Keycloak plugin for Vue >= 2.x",
